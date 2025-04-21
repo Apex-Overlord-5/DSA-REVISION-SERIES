@@ -7,4 +7,4 @@ class Solution:
                 nums.append(0)
                 nums.remove(0)
 
-# THE ABOVE APPROACH BAD APPROACH
+# THE ABOVE APPROACH IS A BAD APPROACH
