@@ -7,4 +7,3 @@ class Solution:
                 return [Mapp[diff], i]
             Mapp[n] = i
         
-        
